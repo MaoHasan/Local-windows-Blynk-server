@@ -57,7 +57,7 @@ cd c:/BlynkServer
 
 2. Run the server:
 ```
-  java -jar server-0.28.6.jar -dataFolder /path
+  java -jar server-0.28.6.jar -dataFolder /Path
 
 ```
 You should get the following:
