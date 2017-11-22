@@ -48,7 +48,7 @@ mail.smtp.password=xxxx
 - Make sure your E-mail accepts unknown apps requests, to do that go to your email's security, if you have a two way authentication you have to add Blynk to the approved apps, else just go [here](https://myaccount.google.com/lesssecureapps) and **allow less secure apps**.
 
 ## Running the Server
-- Start the `cmd as administartor`: to start a **command prompt** as an **administrator**. Click Start, click All Programs, and then click Accessories. Right-click Command prompt, and then click Run as administrator. If the User Account Control dialog box appears, confirm that the action it displays is what you want, and then click Continue.
+- Start the `cmd as administartor`: to start a **command prompt** as an **administrator**, you can search for cmd, rightclick it and run at as administrator, or: Click Start, click All Programs, and then click Accessories. Right-click Command prompt, and then click Run as administrator. If the User Account Control dialog box appears, confirm that the action it displays is what you want, and then click Continue.
 
 1. Now we need to go to the path where we created the folder, simply type `cd` and the folder path after it, for example:
 ```
